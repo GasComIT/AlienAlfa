@@ -4,7 +4,7 @@
 	"description": "Fully Customisable Bot by, GasComIT.",
 	"repository": "https://github.com/GasComIT/AlienAlfa",
 	"website": "https://small-sharp-tool.com/",
-	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
+	"logo": "https://github.com/GasComIT/AlienAlfa/blob/main/media/AA.jpg",
 	"keywords": ["multi-device","WhatsApp Bot"],
     	"stack": "container",
 	"env": { 
